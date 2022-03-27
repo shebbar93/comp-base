@@ -1,6 +1,6 @@
 {
   "name": "@srinidhi/comp-text",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Comp text desc",
   "keywords": [],
   "author": "HC",
@@ -30,7 +30,7 @@
     "react": "^17.0.0"
   },
   "devDependencies": {
-    "@srinidhi/comp-builder": "^1.0.0",
+    "@srinidhi/comp-builder": "^1.0.2",
     "react": "^17.0.0"
   },
   "dependencies": {
