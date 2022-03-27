@@ -1,0 +1,34 @@
+{
+  "name": "@srinidhi/comp",
+  "version": "1.0.1",
+  "description": "> TODO: description",
+  "license": "ISC",
+  "main": "dist/comp.cjs.js",
+  "module": "dist/comp.esm.js",
+  "src": "src/comp.js",
+  "directories": {
+    "src": "src",
+    "test": "__tests__"
+  },
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shebbar93/comp-base.git"
+  },
+  "scripts": {
+    "build": "comp-builder",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@srinidhi/comp-button": "^1.0.1",
+    "@srinidhi/comp-text": "^1.0.0"
+  },
+  "devDependencies": {
+    "@srinidhi/comp-builder": "^1.0.0"
+  }
+}

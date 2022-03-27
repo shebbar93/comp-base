@@ -1,0 +1,37 @@
+{
+  "name": "@srinidhi/comp-builder",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "main": "src/comp-builder.js",
+  "directories": {
+    "src": "src",
+    "test": "__tests__"
+  },
+  "bin": {
+    "comp-builder": "./src/comp-builder.js"
+  },
+  "files": [
+    "src"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shebbar93/comp-base.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@babel/core": "^7.10.1",
+    "@babel/preset-env": "^7.10.1",
+    "@babel/preset-react": "^7.10.1",
+    "@rollup/plugin-babel": "^5.0.2",
+    "@rollup/plugin-node-resolve": "^8.0.0",
+    "rollup": "^2.11.2",
+    "rollup-plugin-postcss": "^3.1.1"
+  }
+}

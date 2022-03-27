@@ -1,0 +1,39 @@
+{
+  "name": "@srinidhi/comp-text",
+  "version": "1.0.0",
+  "description": "Comp text desc",
+  "keywords": [],
+  "author": "HC",
+  "license": "ISC",
+  "main": "dist/comp-text.cjs.js",
+  "module": "dist/comp-text.esm.js",
+  "src": "src/comp-text.js",
+  "directories": {
+    "src": "src",
+    "test": "__tests__"
+  },
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shebbar93/comp-base.git"
+  },
+  "scripts": {
+    "build": "comp-builder",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "^17.0.0"
+  },
+  "devDependencies": {
+    "@srinidhi/comp-builder": "^1.0.0",
+    "react": "^17.0.0"
+  },
+  "dependencies": {
+    "clsx": "^1.1.0"
+  }
+}
