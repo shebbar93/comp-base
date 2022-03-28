@@ -4,7 +4,7 @@ import styles from "./styles.css";
 
 const Button = ({ children, className, variant, type, ...rest }) => {
   const classes = cx(styles.Button, className);
-  if (!type) throw new Error(`This cant be`);
+  // if (!type) throw new Error(`This cant be`);
   return (
     <button {...rest} className={classes}>
       {children}
