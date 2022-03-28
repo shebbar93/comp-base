@@ -1,6 +1,6 @@
 {
   "name": "@srinidhi-multirepo/comp-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "license": "ISC",
   "main": "dist/comp-button.cjs.js",
@@ -27,7 +27,7 @@
     "react": "^17.0.0"
   },
   "devDependencies": {
-    "@srinidhi-multirepo/comp-builder": "^1.0.0",
+    "@srinidhi-multirepo/comp-builder": "^1.0.1",
     "react": "^17.0.0"
   },
   "dependencies": {
