@@ -1,11 +1,11 @@
-# `@srinidhi/comp-text`
+# `@srinidhi-multirepo/comp-text`
 
 > TODO: description 
 
 ## Usage 
 
 ```
-import {Text} from '@srinidhi/comp-text';
+import {Text} from '@srinidhi-multirepo/comp-text';
 
 // TODO: DEMONSTRATE API
 ```

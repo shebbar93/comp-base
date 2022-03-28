@@ -1,6 +1,5 @@
 {
-  "name": "comp-base",
-  "private": true,
+  "name": "@srinidhi-multirepo/comp-base",
   "version": "1.0.0",
   "description": "React UI Library with CSS Modules",
   "main": "index.js",

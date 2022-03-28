@@ -1,11 +1,11 @@
-# `@srinidhi/comp-builder`
+# `@srinidhi-multirepo/comp-builder`
 
 > TODO: description
  
 ## Usage
 
 ```
-const compBuilder = require('@srinidhi/comp-builder');
+const compBuilder = require('@srinidhi-multirepo/comp-builder');
 
 // TODO: DEMONSTRATE API 
 ```

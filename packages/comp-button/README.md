@@ -1,11 +1,11 @@
-# `@srinidhi/comp-button`
+# `@srinidhi-multirepo/comp-button`
 
 > TODO: description test 
 
 ## Usage
 
 ```
-import { Button } from '@srinidhi/comp-button'
+import { Button } from '@srinidhi-multirepo/comp-button'
 
 // TODO: DEMONSTRATE API
 ```

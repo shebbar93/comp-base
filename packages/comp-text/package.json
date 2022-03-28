@@ -1,6 +1,6 @@
 {
-  "name": "@srinidhi/comp-text",
-  "version": "1.0.2",
+  "name": "@srinidhi-multirepo/comp-text",
+  "version": "1.0.0",
   "description": "Comp text desc",
   "keywords": [],
   "author": "HC",
@@ -30,7 +30,7 @@
     "react": "^17.0.0"
   },
   "devDependencies": {
-    "@srinidhi/comp-builder": "^1.0.2",
+    "@srinidhi-multirepo/comp-builder": "^1.0.0",
     "react": "^17.0.0"
   },
   "dependencies": {

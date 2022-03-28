@@ -1,5 +1,5 @@
 'use strict';
 
-describe('@srinidhi/comp-text', () => {
+describe('@srinidhi-multirepo/comp-text', () => {
   it('needs tests');
 });
